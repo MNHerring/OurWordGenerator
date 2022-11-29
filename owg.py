@@ -58,7 +58,6 @@ def main():
             print(symbols[k] + str(numberCount) + regularInput)
 
 
-
     for yearCount in range(1920, 2031): # word + year / year + word
 
         print(capitalLetter + str(yearCount))
